@@ -1,0 +1,386 @@
+
+7.
+locality_name = JabalAwliya AND Type = Mixed AND Status = Normal
+Low
+(9.0/3.0)
+8.
+locality_name = JabalAwliya AND Type = Boys
+ Low 
+ (143.0/51.0)
+
+
+9.
+locality_name = JabalAwliya AND Type = Girls AND electricity = Not Connected
+ Low 
+(17.0/4.0)
+10.
+ locality_name = JabalAwliya AND Type = Girls AND Latrines = Good
+ Low
+(5.0)
+11.
+ locality_name = JabalAwliya AND Type = Girls AND Latrines = Excellent AND Status = Normal
+ Low 
+(5.0/1.0)
+12.
+ locality_name = JabalAwliya AND Type = Girls AND Latrines = bad AND location = Urban AND Classrooms = Not Perfect
+ Medium
+(39.0/14.0)
+13.
+ locality_name = JabalAwliya AND Type = Girls AND Latrines = bad AND location = Rural AND Status = NonGovernmental AND Classrooms = Not Perfect
+ Medium
+ (8.0/1.0)
+14.
+ locality_name = Karari AND Type = Mixed
+ Medium
+(59.0/20.0)
+15.
+ locality_name = Bahri AND Classrooms = perfect AND Type = Girls AND Latrines = Excellent
+ Medium
+(17.0/5.0)
+16.
+ locality_name = Karari AND Type = Girls AND PTR = bad AND Latrines = Good AND location = Urban
+ Medium
+ (27.0/6.0)
+17.
+ locality_name = Khartoum AND Type = Girls AND Status = Normal
+Medium
+(91.0/29.0)
+18.
+ locality_name = JabalAwliya AND Type = Girls AND Latrines = bad AND Status = Normal
+ Medium
+(63.0/32.0)
+19.
+ locality_name = SharqAl-Neel AND Classrooms = perfect AND electricity = Not Connected AND Type = Mixed
+ Low
+(51.0/9.0)
+20.
+ locality_name = Karari AND Type = Girls AND electricity = Not Connected AND location = Urban AND Latrines = bad
+Low 
+(26.0/10.0)
+21.
+ locality_name = Karari AND Type = Girls AND electricity = Not Connected AND location = Rural
+ Medium
+ (8.0)
+
+
+22.
+ locality_name = Karari AND Type = Girls AND PTR = excellent
+ Medium
+(24.0/8.0)
+23.
+locality_name = Bahri AND Classrooms = Not Perfect AND Status = NonGovernmental
+ Medium
+(8.0/4.0)
+24.
+locality_name = Bahri AND Classrooms = perfect AND Type = Girls AND Latrines = Good AND PTR = bad
+ Medium
+ (16.0/5.0)
+25.
+ locality_name = Karari AND Type = Girls AND electricity = Connected AND PTR = bad AND Status = NonGovernmental
+ Medium
+(4.0/1.0)
+26.
+ locality_name = SharqAl-Neel AND Classrooms = perfect AND PTR = excellent
+ Low 
+(47.0/11.0)
+27.
+ locality_name = Karari AND Type = Girls AND PTR = Good AND Latrines = bad AND Classrooms = Not Perfect AND Status = Normal AND location = Urban
+ Medium
+ (43.0/16.0)
+28.
+ locality_name = Karari AND Type = Girls AND PTR = Good AND Classrooms = perfect AND Latrines = bad
+ Medium
+ (111.0/42.0)
+29.
+ locality_name = SharqAl-Neel AND Classrooms = perfect AND Type = Mixed AND Latrines = bad AND Status = Normal
+ Low
+ (24.0/8.0)
+30.
+ locality_name = Bahri AND Classrooms = perfect AND Type = Girls AND location = Rural
+ Medium
+ (16.0/5.0)
+31.
+ locality_name = Khartoum AND Status = NonGovernmental AND Type = Mixed
+ Medium
+ (67.0/15.0)
+32.
+ locality_name = SharqAl-Neel AND Classrooms = perfect AND Type = Boys AND Status = NonGovernmental AND location = Rural AND Latrines = bad
+ Medium
+(7.0/3.0)
+33.
+ locality_name = SharqAl-Neel AND Classrooms = perfect AND Type = Boys
+ Low
+ (207.0/88.0)
+
+
+34.
+ locality_name = SharqAl-Neel AND electricity = Not Connected AND Potable_Water_source = Existed:
+ Low
+(49.0/17.0)
+
+
+35.
+ locality_name = Ombadda AND Latrines = Good AND Status = NonGovernmental
+ Low
+ (14.0/6.0)
+
+
+36.
+ locality_name = Karari AND Type = Boys AND PTR = Good AND Status = Normal AND Latrines = bad AND Classrooms = Not Perfect
+ Medium
+ (49.0/24.0)
+
+
+37.
+ locality_name = SharqAl-Neel AND Classrooms = Not Perfect AND Type = Girls
+ Medium
+ (76.0/34.0)
+
+
+38.
+locality_name = SharqAl-Neel AND location = Rural AND PTR = Good AND Type = Boys
+ Low
+ (22.0/6.0)
+39.
+ locality_name = SharqAl-Neel AND location = Rural AND PTR = Good AND Latrines = Good
+ Low 
+ (9.0/3.0)
+40.
+ locality_name = SharqAl-Neel AND location = Rural AND PTR = Good AND Type = Girls AND electricity = Connected
+ Low 
+(22.0/12.0)
+41.
+ locality_name = SharqAl-Neel AND Latrines = bad AND location = Urban
+ Low 
+ (147.0/70.0)
+42.
+ location = Rural AND locality_name = JabalAwliya AND Type = Girls
+ Low
+ (4.0/2.0)
+43.
+ location = Rural AND locality_name = Bahri AND Status = NonGovernmental
+ Low
+ (17.0/9.0)
+44.
+ location = Rural AND locality_name = Omdurman AND PTR = Good AND Latrines = Good
+ Low
+ (27.0/9.0)
+45.
+ locality_name = SharqAl-Neel AND Type = Mixed AND Latrines = bad AND Classrooms = Not Perfect
+ Low
+ (19.0/10.0)
+46.
+ location = Rural AND locality_name = Omdurman AND PTR = Good AND Latrines = Excellent AND Status = NonGovernmental
+ Low 
+ (8.0/1.0)
+47.
+location = Rural AND locality_name = SharqAl-Neel AND PTR = Good AND Latrines = bad
+ Medium
+ (9.0/4.0)
+48.
+ location = Rural AND locality_name = Omdurman AND PTR = Good AND Latrines = Excellent AND Classrooms = perfect
+ Failed 
+ (13.0/5.0)
+49.
+ locality_name = SharqAl-Neel AND Classrooms = perfect
+ Low
+ (80.0/31.0)
+50.
+ Type = Mixed AND locality_name = Omdurman
+ Low
+ (19.0/6.0)
+
+
+51.
+ Status = Normal AND PTR = Good AND Type = Boys AND Classrooms = perfect AND electricity = Connected AND Latrines = Excellent AND locality_name = Khartoum
+
+
+
+ Low
+ (21.0/10.0)
+52.
+ locality_name = Bahri AND Classrooms = perfect AND Type = Girls AND Latrines = Good AND PTR = excellent
+ Medium
+ (7.0/3.0)
+53.
+locality_name = Khartoum AND Status = NonGovernmental AND Type = Girls AND PTR = Good AND Latrines = bad
+ High
+ (38.0/14.0)
+
+
+54.
+Status = Normal AND PTR = Good AND Type = Boys AND Latrines = Good
+ Medium
+ (17.0/9.0)
+55.
+ locality_name = Khartoum AND Status = NonGovernmental AND Latrines = Good AND PTR = excellent AND Type = Boys
+ High
+ (5.0/2.0)
+56.
+ location = Rural AND locality_name = Omdurman AND PTR = Good AND Latrines = bad AND Potable_Water_source = Existed AND electricity = Connected AND Classrooms = Not Perfect AND Status = Normal
+ Low
+ (28.0/14.0)
+57.
+ locality_name = Khartoum AND Status = NonGovernmental
+ Medium
+ (136.0/62.0)
+
+
+58.
+ Type = Mixed AND locality_name = Khartoum
+ Medium 
+(5.0/1.0)
+59.
+Type = Boys AND Classrooms = perfect AND Status = Normal AND PTR = Good AND electricity = Connected AND locality_name = Karari AND location = Rural ANDLatrines = bad
+ Medium
+ (6.0/2.0)
+
+
+60.
+Type = Boys AND Classrooms = perfect AND Status = Normal AND PTR = Good AND electricity = Connected AND locality_name = Karari
+ Low
+ (39.0/14.0)
+
+
+61.
+ Type = Boys AND Classrooms = perfect AND locality_name = Karari AND PTR = Good AND Status = NonGovernmental AND location = Urban AND Latrines = bad
+ Medium
+(115.0/61.0)
+62.
+ locality_name = Karari AND Classrooms = perfect AND Type = Boys AND Status = NonGovernmental
+Medium
+(85.0/30.0)
+
+
+63.
+ locality_name = Omdurman AND PTR = excellent
+ Low
+(19.0/9.0)
+64.
+ locality_name = Omdurman AND PTR = bad
+ Low
+ (16.0/5.0)
+
+
+65.
+Type = Grils AND PTR = excellent
+ Low
+ (5.0/1.0)
+66.
+ locality_name = Bahri AND Classrooms = perfect ANDType = Girls AND Status = NonGovernmental:
+ High
+ (4.0/1.0)
+
+
+67.
+locality_name = Bahri AND Classrooms = perfect AND PTR = bad
+ Medium
+(6.0/2.0)
+68.
+ locality_name = Bahri AND Classrooms = perfect AND Latrines = Excellent AND PTR = Good
+ Medium
+ (15.0/4.0)
+69.
+Type = Grils AND locality_name = Omdurman AND location = Rural AND Classrooms = perfect:
+ Medium
+ (27.0/11.0)
+
+
+70.
+Type = Girls AND locality_name = Karari AND PTR = Good AND Latrines = bad
+ Medium
+ (26.0/13.0)
+
+
+71.
+Type = Girls AND Classrooms = Not Perfect
+ Low 
+ (34.0/18.0)
+72.
+Type = Grils AND electricity = Connected AND Status = Normal AND PTR = Good AND Latrines = bad
+ Medium
+ (12.0/4.0)
+73.
+ Type = Girls AND electricity = Connected AND PTR = Good AND locality_name = Karari AND Latrines = Excellent AND Status = NonGovernmental AND location = Urban
+ High
+ (18.0/11.0)
+74.
+Type = Girls AND electricity = Connected AND locality_name = Karari AND PTR = Good
+Medium
+ (22.0/7.0)
+
+
+75.
+Type = Boys AND locality_name = Omdurman AND electricity = Connected AND Classrooms = perfect
+ Low 
+ (91.0/50.0)
+76.
+ location = Rural AND locality_name = Omdurman AND Classrooms = Not Perfect AND Latrines = bad AND electricity = Connected
+ Failed
+ (4.0/1.0)
+77.
+ location = Rural AND locality_name = Omdurman
+ Low
+ (7.0/1.0)
+
+
+78.
+ Type = Girls AND electricity = Connected AND locality_name = Omdurman AND Latrines = bad
+ Medium 
+ (34.0/18.0)
+79.
+Type = Boys AND Latrines = bad AND Classrooms = perfect
+ Low
+ (78.0/43.0)
+80.
+ locality_name = Bahri AND Classrooms = perfect AND Latrines = Good
+ Medium
+ (22.0/7.0)
+81.
+PTR = Good AND locality_name = Omdurman AND Status = NonGovernmental
+ Low 
+ (35.0/15.0)
+82.
+PTR = Good AND Type = Boys AND locality_name = Karari AND electricity = Connected
+ High
+ (14.0/8.0)
+83.
+ location = Urban AND PTR = bad
+Failed 
+ (6.0/3.0)
+84.
+ location = Urban AND locality_name = Bahri AND Status = Normal
+ High
+ (3.0/1.0)
+
+
+85.
+ location = Urban AND locality_name = Khartoum
+ Medium
+ (20.0/13.0)
+86.
+ location = Urban AND locality_name = JabalAwliya
+ Low
+ (7.0/4.0)
+87.
+ locality_name = Omdurman AND Latrines = Excellent AND Type = Girls
+ Low
+ (3.0)
+88.
+ locality_name = Omdurman AND Latrines = bad
+ Low
+(15.0/8.0)
+89.
+ PTR = Good AND Type = Boys
+ Medium
+ (5.0/2.0)
+90.
+ PTR = Good AND location = Urban AND Status = Normal
+ Medium
+ (5.0/2.0)
+91.
+otherwise
+ Failed
+(9.0/5.0)
+
+
